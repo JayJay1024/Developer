@@ -1,0 +1,2 @@
+- [Mac下iTerm2让SSH记录远程服务器账号和密码](https://blog.csdn.net/shaobo8910/article/details/75514849)
+- [iTerm2保持连接](https://www.v2ex.com/t/155773)
