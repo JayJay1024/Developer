@@ -7,3 +7,4 @@
 - [eosio.token](./eosio.token)
 - [eosio的mongo插件的使用](./eosio的mongo插件的使用/)
 - [eosio的快照功能](./eosio的快照功能/)
+- [获取eosio表的所有scope的表数据](./获取eosio表的所有scope的表数据/)
