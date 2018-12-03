@@ -6,3 +6,4 @@
 - [lnmp迁移](./lnmp/lnmp迁移.md)
 - [eosio.token](./eosio.token)
 - [eosio的mongo插件的使用](./eosio的mongo插件的使用/)
+- [eosio的快照功能](./eosio的快照功能/)
