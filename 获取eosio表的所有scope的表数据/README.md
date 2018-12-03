@@ -8,8 +8,8 @@
 // 1. 获取scope
 fetchScopes = (upper = '') => {
     const data = {
-        code: 'trustbetmine',
-        table: 'miners',
+        code: 'eosio.token',
+        table: 'accounts',
         lower_bound: upper,  // 从 upper 开始
         // upper_bound: '',
         limit: 6,  // 表示每次获取6条记录
