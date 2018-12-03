@@ -9,3 +9,4 @@
 - [eosio的快照功能](./eosio的快照功能/)
 - [获取eosio表的所有scope的表数据](./获取eosio表的所有scope的表数据/)
 - [eosio的history插件自定义过滤](./eosio的history插件自定义过滤/)
+- [mongodb简单使用](./mongodb简单使用/)
