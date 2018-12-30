@@ -1,0 +1,14 @@
+{
+  "name": "cluster-demo",
+  "version": "1.0.0",
+  "description": "cluster",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "cluster"
+  ],
+  "author": "ly",
+  "license": "ISC"
+}
