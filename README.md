@@ -12,3 +12,4 @@
 - [mongodb简单使用](./mongodb简单使用/)
 - [eosio通过插件存储账号余额到mongo](./eosio通过插件存储账号余额到mongo/)
 - [cluster-demo](./cluster-demo/)
+- [eosio获取账号actions](./eosio获取账号actions/)
