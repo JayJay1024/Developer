@@ -17,3 +17,4 @@
 - [config.ini中的signature-provider](./config.ini中的signature-provider/)
 - [eos合约action命名](./eos合约action命名/)
 - [节点rpc无法访问](./节点rpc无法访问/)
+- [transaction declares authority错误](./transaction-declares-authority错误/)
