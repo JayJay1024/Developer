@@ -13,3 +13,4 @@
 - [eosio通过插件存储账号余额到mongo](./eosio通过插件存储账号余额到mongo/)
 - [cluster-demo](./cluster-demo/)
 - [eosio获取账号actions](./eosio获取账号actions/)
+- [eosio计算ram价格](./eosio计算ram价格/)
