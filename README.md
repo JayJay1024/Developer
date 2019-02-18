@@ -15,3 +15,4 @@
 - [eosio获取账号actions](./eosio获取账号actions/)
 - [eosio计算ram价格](./eosio计算ram价格/)
 - [config.ini中的signature-provider](./config.ini中的signature-provider/)
+- [eos合约action命名](./eos合约action命名/)
